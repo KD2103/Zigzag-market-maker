@@ -10,7 +10,7 @@
             "priceFeedPrimary": "cryptowatch:6631",
             "priceFeedSecondary": "cryptowatch:588",
             "slippageRate": 1e-5,
-            "maxSize": 0.1,
+            "maxSize": 0.25,
             "minSize": 0.0003,
             "minSpread": 0.0001,
             "active": true
@@ -19,7 +19,7 @@
             "priceFeedPrimary": "cryptowatch:588",
             "priceFeedSecondary": "cryptowatch:6631",
             "slippageRate": 1e-5,
-            "maxSize": 100,
+            "maxSize": 0.25,
             "minSize": 0.0003,
             "minSpread": 0.0001,
             "active": true
@@ -28,7 +28,7 @@
             "priceFeedPrimary": "cryptowatch:579",
             "priceFeedSecondary": null,
             "slippageRate": 1e-4,
-            "maxSize": 10,
+            "maxSize": 0.018,
             "minSize": 0.00003,
             "minSpread": 0.0001,
             "active": true
@@ -37,7 +37,7 @@
             "priceFeedPrimary": "cryptowatch:6630",
             "priceFeedSecondary": null,
             "slippageRate": 1e-4,
-            "maxSize": 10,
+            "maxSize": 0.018,
             "minSize": 0.00003,
             "minSpread": 0.0001,
             "active": true
